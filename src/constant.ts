@@ -5,6 +5,7 @@ export const TARGET_EVENTS = {
     'synchronize',
     'closed',
     'ready_for_review',
+    'labeled',
   ],
   'push': '*',
 };
